@@ -1,0 +1,15 @@
+:root{
+    background: linear-gradient(#623CEA,#FC440F,#1EFFBC);
+    background-color: #623CEA,#FC440F,#1EFFBC,#B4E33D,#FED18C;
+    background-repeat: no-repeat;
+}
+
+* {
+    background-color: #623CEA,#FC440F,#1EFFBC,#B4E33D,#FED18C;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.header{
+    text-align: center;
+    font-size: xx-large;
+}
