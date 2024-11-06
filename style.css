@@ -5,14 +5,16 @@
 }
 
 * {
-    background-color: #623CEA,#FC440F,#1EFFBC,#B4E33D,#FED18C;
+    background-color: linear-gradient(#623CEA,#FC440F,#1EFFBC,#B4E33D,#FED18C);
     background-repeat: repeat;
-    
+    height: 100vh;
+    background-size: auto;
 }
 .header{
     text-align: center;
     font-size: xx-large;
 }
+
 .main{
     font-size: large;
     text-align: center;
